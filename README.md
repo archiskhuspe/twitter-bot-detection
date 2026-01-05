@@ -1,4 +1,4 @@
-# Socio.ML: Identification of Social Accounts’ Responses Using Machine Learning Techniques
+# Socio.ML: Identification of Social Accounts’ Responses using Machine Learning Techniques
 
 Automated Twitter accounts controlled by bot software are Twitter bots, also known as zombies. Liking tweets and following other users, large scale tweet and retweet content for specific goals- are the tasks performed by bots.
 
