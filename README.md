@@ -9,9 +9,6 @@ A machine-learning project that classifies a Twitter account as **bot** or **hum
 public profile attributes. Four scikit-learn classifiers are compared in an analysis notebook; the
 best (a Decision Tree) is trained, pickled, and served through a small Flask web form.
 
-> **Academic team project.** Built as a college course (EDI) group project — not solo work. The
-> repository has been cleaned up and restructured for clarity and reproducibility.
-
 ## Features
 
 - Exploratory data analysis with missing-value, imbalance and Spearman-correlation checks.
@@ -120,7 +117,6 @@ twitter-bot-detection/
 
 ## Limitations
 
-- **Academic/team project**, not solo or production work.
 - Small dataset (~2,800 accounts), so results may not generalise to current Twitter/X activity.
 - **Profile-only features** — no tweet content, network or temporal/behavioural signals.
 - The keyword/lexicon list used for the binary flags is hand-built and dated.
