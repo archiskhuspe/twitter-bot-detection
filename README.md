@@ -1,11 +1,11 @@
-# Twitter Bot Detection
+# Verdex — Twitter Bot Detection
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 ![Flask](https://img.shields.io/badge/Flask-web%20app-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-A machine-learning project that classifies a Twitter account as **bot** or **human** from its
+Verdex is a machine-learning project that classifies a Twitter account as **bot** or **human** from its
 public profile attributes. Four scikit-learn classifiers are compared in an analysis notebook; the
 best (a Decision Tree) is trained, pickled, and served through a small Flask web form.
 
